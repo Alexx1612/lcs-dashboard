@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lcs-dashboard/static/css/main.704c2368.css",
+    "main.js": "/lcs-dashboard/static/js/main.f2b16e56.js",
+    "index.html": "/lcs-dashboard/index.html",
+    "main.704c2368.css.map": "/lcs-dashboard/static/css/main.704c2368.css.map",
+    "main.f2b16e56.js.map": "/lcs-dashboard/static/js/main.f2b16e56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.704c2368.css",
+    "static/js/main.f2b16e56.js"
+  ]
+}
